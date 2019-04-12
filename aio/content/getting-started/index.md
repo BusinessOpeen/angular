@@ -149,7 +149,7 @@ Learn more: See the [Template Syntax guide](guide/template-syntax "Template Synt
 {@a components}
 ## Components
 
-*Components* let you create reusable sets of UI functionality. 
+*Components* define areas of responsibility in your UI let you reuse these sets of UI functionality. 
 You've already built one with the product list component. 
 
 A component is comprised of three things: 
